@@ -4,7 +4,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="Sandy@2005",
+  password="xxxxxxxx",
   database="restaurant")
 mycursor = mydb.cursor()
 mycursor.execute('''CREATE TABLE bill (Item_name varchar(50) primary key,Price_per_item integer,no_of_items integer
@@ -217,3 +217,4 @@ def bill():
     else:
         print("You didn't buy anything")
 menu()
+
