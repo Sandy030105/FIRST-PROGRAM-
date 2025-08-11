@@ -1,5 +1,5 @@
 import mysql.connector as a
-con=a.connect(host="localhost",user="root",password="Sandy@2005",database="library")
+con=a.connect(host="localhost",user="root",password="xxxxxxxx",database="library")
 
 
 def addbook():
@@ -113,3 +113,4 @@ pswd()
         
     
     
+
