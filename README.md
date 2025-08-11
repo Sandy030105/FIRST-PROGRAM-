@@ -1,2 +1,2 @@
-# FIRST-PROGRAM-
-First program on Restaurant Management System with Python And MYSQL only.
+# PROGRAMS 
+Some programs with the help of Python And MYSQL only (for now).
